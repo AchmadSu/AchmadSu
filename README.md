@@ -36,12 +36,12 @@ Backend Developer specializing in building reliable web applications, REST APIs,
 
 ## 📌 Featured Projects
 
--  Enterprise File Monitoring Case Study Console App
+-  Enterprise File Monitoring Console App
 -  Enterprise CSV Report Generator Worker Console App
--  Enterprise Command Worker Request Service Configuration App
--  Sport Apparel Online Marketplace App
--  Enterprise Resource Plan Management App
--  Enterprise Inventory Management App  
+-  Enterprise Worker Request Center Service Configuration Web App
+-  Sport Apparel Marketplace Web pp
+-  Enterprise Resource Plan Management Web App
+-  Enterprise Inventory Management Web App  
 
 ## 📫 Contact
 
