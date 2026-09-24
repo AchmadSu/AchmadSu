@@ -36,7 +36,7 @@ Backend Developer specializing in building reliable web applications, REST APIs,
 
 ## 📌 Featured Projects
 
-Coming soon...
+-  Enterprise File Monitoring Case Study Console App
 
 ## 📫 Contact
 
